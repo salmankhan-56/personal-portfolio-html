@@ -1,2 +1,0 @@
-print("Welcome to personal-portfolio-html")
-print("This is the main program file.")
